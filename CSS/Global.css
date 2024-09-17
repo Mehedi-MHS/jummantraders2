@@ -1,0 +1,26 @@
+*{
+  font-family: kanit;
+}
+
+
+.line1{
+    background-image: linear-gradient(to right, #ffc300, #ffd60a);
+    background-repeat: no-repeat;
+    background-position: 0% bottom;
+    background-size: 100% 3px;
+    padding-bottom: 2px;
+
+}
+
+/*
+.line1 span::before {
+  content: "";
+  position: absolute;
+  top: 105%;
+  width: 20%;
+  left: 0;
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(130deg,#ff7a18,#af002d 41.07%,#319197 76.05%);
+}
+  */
